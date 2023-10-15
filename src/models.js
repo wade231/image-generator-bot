@@ -4,6 +4,11 @@ module.exports = [
     value:
       'stability-ai/stable-diffusion:27b93a2413e7f36cd83da926f3656280b2931564ff050bf9575f1fdf9bcd7478',
   },
+   {
+    name: ' realistic-vision-v5',
+    value:
+      'lucataco/realistic-vision-v5:8aeee50b868f06a1893e3b95a8bb639a8342e846836f3e0211d6a13c158505b1',
+  },
   {
     name: 'Openjourney (Midjourney style)',
     value:
