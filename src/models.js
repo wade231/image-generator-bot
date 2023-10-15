@@ -5,9 +5,9 @@ module.exports = [
       'stability-ai/stable-diffusion:27b93a2413e7f36cd83da926f3656280b2931564ff050bf9575f1fdf9bcd7478',
   },
    {
-    name: 'illusion-diffusion-hq',
+    name: 'lucataco/hotshot-xl',
     value:
-      'lucataco/illusion-diffusion-hq:3c64e669051f9b358e748c8e2fb8a06e64122a9ece762ef133252e2c99da77c1',
+      'lucataco/hotshot-xl:b57dddff6ae2029be57eab3d17e0de5f1c83b822f0defd8ce49bee44d7b52ee6',
   },
   {
     name: 'Openjourney (Midjourney style)',
