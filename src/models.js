@@ -1,13 +1,13 @@
 module.exports = [
-  {
-    name: 'Stable Diffusion (Default)',
+   {
+    name: 'ai-forever/kandinsky-2.2 (Default)',
     value:
-      'stability-ai/stable-diffusion:27b93a2413e7f36cd83da926f3656280b2931564ff050bf9575f1fdf9bcd7478',
+      'ai-forever/kandinsky-2.2:ea1addaab376f4dc227f5368bbd8eff901820fd1cc14ed8cad63b29249e9d463',
   },
    {
-    name: 'lucataco/hotshot-xl',
+    name: 'Stable Diffusion',
     value:
-      'lucataco/hotshot-xl:b57dddff6ae2029be57eab3d17e0de5f1c83b822f0defd8ce49bee44d7b52ee6',
+      'stability-ai/stable-diffusion:27b93a2413e7f36cd83da926f3656280b2931564ff050bf9575f1fdf9bcd7478',
   },
   {
     name: 'Openjourney (Midjourney style)',
